@@ -21,23 +21,23 @@ This project allows you to compile and run multiple variants of a program for di
 ## Compilation & Running
 For Variant 1:
 In the terminal, type:
-- g++ -std=c++11 -o A1B1STDISCM A1B1STDISCM.cpp -lpthread
-- A1B1STDISCM
+- `g++ -std=c++11 -o A1B1STDISCM A1B1STDISCM.cpp -lpthread`
+- `A1B1STDISCM`
 
 For Variant 2:
 In the terminal, type:
-- g++ -std=c++11 -o A2B1STDISCM A2B1STDISCM.cpp -lpthread
-- A2B1STDISCM
+- `g++ -std=c++11 -o A2B1STDISCM A2B1STDISCM.cpp -lpthread`
+- `A2B1STDISCM`
 
 For Variant 3:
 In the terminal, type:
-- g++ -std=c++11 -o A1B2STDISCM A1B2STDISCM.cpp -lpthread
-- A1B2STDISCM
+- `g++ -std=c++11 -o A1B2STDISCM A1B2STDISCM.cpp -lpthread`
+- `A1B2STDISCM`
 
 For Variant 4:
 In the terminal, type:
-- g++ -std=c++11 -o A2B2STDISCM A2B2STDISCM.cpp -lpthread
-- A2B2STDISCM
+- `g++ -std=c++11 -o A2B2STDISCM A2B2STDISCM.cpp -lpthread`
+- `A2B2STDISCM`
 
 ### For Visual Studio Code (VS Code):
 1. Open the project folder in VS Code.
