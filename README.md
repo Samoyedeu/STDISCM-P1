@@ -45,5 +45,5 @@ In the terminal, type:
 #### Note: Ensure MinGW is installed and configured in your system PATH for Windows.
 
 ### Troubleshooting
-GCC not found: If you encounter issues with GCC, make sure it is correctly installed and available in your system's PATH.
-MinGW issues: If you're using MinGW on Windows and encounter errors, ensure MinGW is properly installed and added to the system PATH.
+- GCC not found: If you encounter issues with GCC, make sure it is correctly installed and available in your system's PATH.
+- MinGW issues: If you're using MinGW on Windows and encounter errors, ensure MinGW is properly installed and added to the system PATH.
