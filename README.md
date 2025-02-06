@@ -13,10 +13,9 @@ This project allows you to compile and run multiple variants of a program for di
 2. **Navigate to the path/variant** where the source files (`A1B1STDISCM.cpp`, `A2B1STDISCM.cpp`, etc.) are located.
 
 ## Configuration
-
+Set the configurations
 - `x=[NUMBER OF THREADS]`
 - `y=[END RANGE NUMBER TO SEARCH]`
-
 
 ## Compilation & Running
 For Variant 1:
