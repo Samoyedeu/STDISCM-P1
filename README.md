@@ -18,6 +18,7 @@ Set the configurations
 - `y=[END RANGE NUMBER TO SEARCH]`
 
 ## Compilation & Running
+After navigating to variant path,
 For Variant 1:
 In the terminal, type:
 - `g++ -std=c++11 -o A1B1STDISCM A1B1STDISCM.cpp -lpthread`
