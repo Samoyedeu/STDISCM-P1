@@ -42,7 +42,7 @@ In the terminal, type:
 ### For Visual Studio Code (VS Code):
 1. Open the project folder in VS Code.
 2. Press Ctrl + F5 to build and run the program.
-# Note: Ensure MinGW is installed and configured in your system PATH for Windows.
+#### Note: Ensure MinGW is installed and configured in your system PATH for Windows.
 
 ### Troubleshooting
 GCC not found: If you encounter issues with GCC, make sure it is correctly installed and available in your system's PATH.
