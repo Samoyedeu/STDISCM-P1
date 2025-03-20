@@ -1,4 +1,4 @@
-# Project Title
+# STDISCM-P1
 
 ## Overview
 This project allows you to compile and run multiple variants of a program for different thread configurations and end-range numbers to search. You can either use the command line interface (CLI) or Visual Studio Code (VS Code) for this.
